@@ -18,6 +18,4 @@ HTML, CSS, JavaScript, jQuery, GSAP, Swiper, Figma
 
 ## 📸 **주요 화면 캡처**
 > ⚠️ 리뉴얼 예정으로 사이트가 변경될 수 있어 캡처 보존 필요
-
-![메인 화면](./screenshots/main.jpg)
-![모바일 뷰](./screenshots/mobile-view.jpg)
+![모바일 메인 뷰](https://github.com/doitlock/canon-rflens-microsite/blob/main/screenshots/main-mobile.gif)
