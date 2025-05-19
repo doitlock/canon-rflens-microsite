@@ -18,6 +18,6 @@ HTML, CSS, JavaScript, jQuery, GSAP, Swiper, Figma
 
 ## 📸 **주요 화면 캡처(페이지가 리뉴얼 되어 화면 캡처 보관)**
 - PC 메인
-![PC 메인 뷰](https://github.com/doitlock/canon-rflens-microsite/blob/main/screenshots/main-pc.gif)
+- ![PC 메인 뷰](https://github.com/doitlock/canon-rflens-microsite/blob/main/screenshots/main-pc.gif)
 - 모바일 메인
-![모바일 메인 뷰](https://github.com/doitlock/canon-rflens-microsite/blob/main/screenshots/main-mobile.gif)
+- ![모바일 메인 뷰](https://github.com/doitlock/canon-rflens-microsite/blob/main/screenshots/main-mobile.gif)
